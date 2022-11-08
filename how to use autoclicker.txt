@@ -1,0 +1,9 @@
+run setup.bat
+
+
+for "autoclicker.py" start "run.bat" then press "a" to start and "b" to stop. It clicks 60
+times a second
+
+for "autoclicker.py2" start "run2.bat" in this one there is a easy gui. It clicks like 10 times a second
+
+to test for yourself https://cpstest.org/100-seconds.php
